@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "AETHER HOROLOGY — Beyond Time" },
+    { "path": "/collections", "title": "Collections — AETHER HOROLOGY" },
+    { "path": "/product/:slug", "title": "Timepiece — AETHER HOROLOGY" },
+    { "path": "/smartwatches", "title": "Smartwatches — AETHER HOROLOGY" },
+    { "path": "/mechanical", "title": "Mechanical — AETHER HOROLOGY" },
+    { "path": "/limited-editions", "title": "Limited Editions — AETHER HOROLOGY" },
+    { "path": "/craftsmanship", "title": "Craftsmanship — AETHER HOROLOGY" },
+    { "path": "/contact", "title": "Contact — AETHER HOROLOGY" },
+    { "path": "/404", "title": "Page not found — AETHER HOROLOGY" }
+  ]
+}
