@@ -1,6 +1,7 @@
 {
-  "name": "aether",
+  "name": "aether-horology",
   "version": "1.0.0",
+  "description": "Cyber-luxury horology and biometric wearable storefront.",
   "type": "module",
   "license": "MIT",
   "scripts": {
